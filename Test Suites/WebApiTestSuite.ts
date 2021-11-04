@@ -20,13 +20,13 @@
    <testCaseLink>
       <guid>d78f4f52-59fa-490e-8a50-dc1d463c9259</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Users/TestHTTPMethods</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>16d5dc68-89f2-4b03-865e-b2eaefba4c15</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Calculators/Addition</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
